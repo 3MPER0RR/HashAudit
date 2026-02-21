@@ -1,0 +1,23 @@
+# HashAudit
+
+CLI tool written in Ruby for dictionary-based hash analysis and password strength assessment.  
+It supports multiple hashing algorithms and provides runtime statistics and entropy calculation for the cracked passwords.
+
+---
+
+## Features
+
+- Supports **MD5, SHA1, SHA256, SHA512**  
+- Dictionary attack mode  
+- Runtime statistics: number of attempts, elapsed time  
+- Password entropy calculation  
+- Single-file implementation (easy to use and modify)
+
+---
+
+## Usage
+
+### Analyze a hash using a dictionary
+
+```bash
+ruby hashchecker.rb -h HASH -f wordlist.txt -a md5
