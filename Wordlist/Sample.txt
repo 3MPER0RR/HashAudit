@@ -1,0 +1,10 @@
+password
+123456
+admin
+qwerty
+letmein
+welcome
+ruby123
+test123
+hashaudit
+changeme
