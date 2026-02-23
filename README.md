@@ -20,4 +20,4 @@ It supports multiple hashing algorithms and provides runtime statistics and entr
 ### Analyze a hash using a dictionary
 
 ```bash
-ruby hashchecker.rb -h HASH -f wordlist.txt -a md5
+ruby HashAudit.rb -h HASH -f wordlist.txt -a md5
