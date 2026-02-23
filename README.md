@@ -11,7 +11,6 @@ It supports multiple hashing algorithms and provides runtime statistics and entr
 - Dictionary attack mode  
 - Runtime statistics: number of attempts, elapsed time  
 - Password entropy calculation  
-- Single-file implementation (easy to use and modify)
 
 ---
 
