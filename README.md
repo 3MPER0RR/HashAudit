@@ -1,7 +1,7 @@
 # HashAudit
 
 CLI tool written in Ruby for dictionary-based hash analysis and password strength assessment.  
-It supports multiple hashing algorithms and provides runtime statistics and entropy calculation for the cracked passwords.
+It supports multiple hashing algorithms and provides runtime statistics and entropy calculation for the find passwords.
 
 ---
 
